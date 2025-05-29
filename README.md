@@ -36,3 +36,4 @@ Note: If you encounter a PowerShell script execution error, allow scripts to run
 		git remote add origin https://github.com/saijaggu/Housing-Price-Prediction.git
 		git branch -M main
 		git push -u origin main
+		git pull origin main
